@@ -1,0 +1,20 @@
+{
+  "contact": "discord.gg/superstonk, @platinumsparkles",
+  "templates": [
+    {
+      "name": "superstonk",
+      "sources": [
+        "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/superston_place_v10.png"
+      ],
+      "x": 1,
+      "y": 433
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "OSU",
+      "url": "https://osu.place/e/osuplace2023.jso"
+    }
+  ],
+  "blacklist": []
+}
